@@ -5,7 +5,19 @@
 </head>
 <body>
 	<h1>Laboratório 1 - Instalação, configuração e manutenção de servidores e equipamentos de rede</h1>
-	<p>Este laboratório tem como objetivo fornecer um ambiente virtual para prática de instalação, configuração e manutenção de servidores e equipamentos de rede. Serão utilizadas as seguintes tecnologias:</p>
+	<br>
+<div align="center">
+  <h3>Tecnologias Utilizadas</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=Vagrant&logoColor=white" alt="Vagrant">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP">
+  </p>
+</div>
+
+<p>Este laboratório tem como objetivo fornecer um ambiente virtual para prática de instalação, configuração e manutenção de servidores e equipamentos de rede. Serão utilizadas as seguintes tecnologias:</p>
 	<ul>
 		<li>Vagrant para criação do ambiente virtual <i class="fab fa-vagrant"></i></li>
 		<li>Ubuntu como sistema operacional <i class="fab fa-ubuntu"></i></li>
@@ -13,7 +25,6 @@
 		<li>MySQL como banco de dados <i class="fas fa-database"></i></li>
 		<li>PHP como linguagem de programação para web <i class="fab fa-php"></i></li>
 	</ul>
-
 
 <h2>Pré-requisitos</h2>
 <p>Para executar este laboratório, é necessário ter o Vagrant instalado em sua máquina. Para instalar o Vagrant, siga as instruções do site oficial: <a href="https://www.vagrantup.com/docs/installation">https://www.vagrantup.com/docs/installation</a></p>
@@ -44,7 +55,6 @@
 </code></pre>
 <ul>
 	<li><strong>Vagrantfile:</strong> arquivo de configuração principal do Vagrant, quedefine as características do ambiente.
-<<<<<<< HEAD
 
 <section>
     <h2>Scripts e arquivos</h2>
@@ -54,5 +64,3 @@
     <h2>Considerações finais</h2>
     <p>Este laboratório é apenas um exemplo básico de como criar um ambiente virtual usando o Vagrant e provisionar serviços como Apache, MySQL e PHP. É importante lembrar que as configurações podem variar de acordo com as necessidades do projeto e que é fundamental ter conhecimento em SysAdmin para gerenciar servidores e equipamentos de rede em um ambiente de produção.</p>
 </section>
-=======
->>>>>>> ee750f0117d74e5694ce57c3a24079affe5d4e1d
