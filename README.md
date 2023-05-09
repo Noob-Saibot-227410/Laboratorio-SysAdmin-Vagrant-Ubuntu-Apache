@@ -44,6 +44,7 @@
 </code></pre>
 <ul>
 	<li><strong>Vagrantfile:</strong> arquivo de configuração principal do Vagrant, quedefine as características do ambiente.
+<<<<<<< HEAD
 
 <section>
     <h2>Scripts e arquivos</h2>
@@ -53,3 +54,5 @@
     <h2>Considerações finais</h2>
     <p>Este laboratório é apenas um exemplo básico de como criar um ambiente virtual usando o Vagrant e provisionar serviços como Apache, MySQL e PHP. É importante lembrar que as configurações podem variar de acordo com as necessidades do projeto e que é fundamental ter conhecimento em SysAdmin para gerenciar servidores e equipamentos de rede em um ambiente de produção.</p>
 </section>
+=======
+>>>>>>> ee750f0117d74e5694ce57c3a24079affe5d4e1d
