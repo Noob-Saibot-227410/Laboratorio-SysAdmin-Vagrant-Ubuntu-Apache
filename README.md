@@ -45,3 +45,12 @@
 </code></pre>
 <ul>
 	<li><strong>Vagrantfile:</strong> arquivo de configuração principal do Vagrant, quedefine as características do ambiente.
+
+<section>
+    <h2>Scripts e arquivos</h2>
+    <p>A pasta <code>scripts/</code> contém os scripts de instalação e configuração dos serviços que serão provisionados em nossa máquina virtual. Já a pasta <code>files/</code> contém os arquivos que serão copiados para dentro da máquina virtual, como por exemplo a página inicial do servidor web.</p>
+</section>
+<section>
+    <h2>Considerações finais</h2>
+    <p>Este laboratório é apenas um exemplo básico de como criar um ambiente virtual usando o Vagrant e provisionar serviços como Apache, MySQL e PHP. É importante lembrar que as configurações podem variar de acordo com as necessidades do projeto e que é fundamental ter conhecimento em SysAdmin para gerenciar servidores e equipamentos de rede em um ambiente de produção.</p>
+</section>
