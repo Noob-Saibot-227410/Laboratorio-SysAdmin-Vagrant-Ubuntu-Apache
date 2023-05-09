@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Laboratório 1 - Instalação, configuração e manutenção de servidores e equipamentos de rede</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-qlzn91A9Q0tqrm0M58JjC7qjT+vU7ZbZ3KzxYrN+jENM9uRakKvUMaVg1TcF5z/hz1iQwJ0Iy5x7cNpT4xjIWg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
