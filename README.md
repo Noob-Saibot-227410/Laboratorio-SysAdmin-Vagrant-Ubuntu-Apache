@@ -5,7 +5,6 @@
 </head>
 <body>
 	<h1>Laboratório 1 - Instalação, configuração e manutenção de servidores e equipamentos de rede</h1>
-	<br>
 <div align="center">
   <h3>Tecnologias Utilizadas</h3>
   <p>
